@@ -84,7 +84,8 @@ plt.show()
 ```
 
 ## Output:
-![ex8](https://github.com/user-attachments/assets/4deaf459-d63c-408f-9c0a-4e0960d88507)
+![ex9](https://github.com/user-attachments/assets/4e8afe19-ee33-4ffc-a1ae-ad18d64534f3)
+
 
 
 
